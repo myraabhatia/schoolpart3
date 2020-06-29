@@ -1,0 +1,19 @@
+.t{
+    background-color: #ff00ff;
+    justify-content: center;
+    display: flex;
+   
+    
+    
+}
+.image{
+    background-color: #000000;
+    flex-wrap: wrap-reverse;
+display: flex;
+
+}
+.text{
+    background-color: #ffffff;
+display: flex;
+
+}
